@@ -1,0 +1,6 @@
+[submodule "lib/forge-std"]
+	path = lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/quant-protocol"]
+	path = lib/quant-protocol
+	url = https://github.com/RollaProject/quant-protocol
